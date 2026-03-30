@@ -1,6 +1,6 @@
-# bekontaii
+# Hi 👋, I'm Bekarys
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEkTpi7IIS0WQlE511ts6KhBLhUpyICccVg&s" width="50%"/>
+<img src="https://alpaca.markets/blog/content/images/2020/03/coding.gif" width="100%"/>
 
 > Backend-focused developer building reliable and scalable systems.
 
@@ -40,24 +40,13 @@ Interested in clean architecture, performance and scalable solutions.
 ---
 
 ### 📊 GitHub Activity:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bekontaii&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekontaii&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bekontaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bekontaii&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekontaii&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekontaii/bekontaii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bekontaii/bekontaii/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bekontaii/bekontaii/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
----
 
 ## 📌 Philosophy
 
