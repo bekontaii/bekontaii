@@ -39,25 +39,24 @@ Interested in clean architecture, performance and scalable solutions.
 
 ---
 
-## 📊 Most Used Languages
+### 📊 GitHub Activity:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bekontaii&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekontaii&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekontaii&theme=radical" alt="GitHub Streak" width="100%" />
+</p>
 
----
-
-
-
-
----
-
-## 🔥 Activity & Longest Streak
-
-![Streak](https://streak-stats.demolab.com/?user=bekontaii&theme=tokyonight)
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekontaii/bekontaii/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bekontaii/bekontaii/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bekontaii/bekontaii/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 ---
 
 ## 📌 Philosophy
