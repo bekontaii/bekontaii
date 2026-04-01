@@ -44,9 +44,6 @@ Interested in clean architecture, performance and scalable solutions.
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bekontaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bekontaii&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekontaii&theme=radical" alt="GitHub Streak" width="100%" />
-</p>
 
 ## 📌 Philosophy
 
