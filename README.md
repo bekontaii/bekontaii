@@ -1,6 +1,5 @@
 # Hi 👋, I'm Bekarys
 
-<img src="https://alpaca.markets/blog/content/images/2020/03/coding.gif" width="100%"/>
 
 > Backend-focused developer building reliable and scalable systems.
 
