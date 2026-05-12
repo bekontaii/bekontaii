@@ -14,7 +14,7 @@ Interested in clean architecture, performance and scalable solutions.
 
 ## ⚙️ Current Focus
 
-- Backend development (Go / Java)  
+- Backend development 
 - REST API design  
 - System design fundamentals  
 - Database optimization  
