@@ -24,7 +24,7 @@ Interested in clean architecture, performance and scalable solutions.
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,js,html,css,nodejs,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=go,docker,mongodb,js,html,css,nodejs,postgres,postman" />
 </p>
 
 ---
